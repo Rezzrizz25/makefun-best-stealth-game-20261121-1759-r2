@@ -1,5 +1,9 @@
 # NIGHTSHADE: The Silent Vault
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Rezzrizz25/makefun-best-stealth-game-20261121-1759-r2/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Rezzrizz25/makefun-best-stealth-game-20261121-1759-r2/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 A complete top-down stealth game for the make.fun bounty **"Make the best stealth game"** (`best-stealth-game-20261121-1759`). You are Wren, a thief slipping through three guarded museum floors at night. Lift every intel file, then reach the exit — without ever being seen.
 
 ## How to play
